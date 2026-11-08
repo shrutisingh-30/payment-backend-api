@@ -117,6 +117,17 @@ The test suite covers service logic, REST controller behavior, validation, excep
 
 This project is a **payment record management and simulation backend**. It demonstrates payment-related backend workflows but does not connect to an actual payment gateway or process real monetary transactions.
 
+## API Documentation (Swagger)
+
+This project uses Swagger UI for interactive API documentation and testing.
+
+After starting the application, open:
+
+- Swagger UI: http://localhost:8080/swagger-ui/index.html
+- OpenAPI JSON: http://localhost:8080/v3/api-docs
+
+You can view all available endpoints, provide request data, and test API operations directly from Swagger UI.
+
 ## Author
 
 **Shruti Singh**
